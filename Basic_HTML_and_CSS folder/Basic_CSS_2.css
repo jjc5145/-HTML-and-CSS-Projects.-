@@ -1,0 +1,17 @@
+p {
+	color: snow;
+	background: black;
+	font-weight: bold;
+	text-align: center;
+}
+h1 {
+  text-shadow: 10px 2px #FF0000;
+}
+ol{
+	font-size: 10px;
+	
+}
+ul{
+	font-size: 20px;
+	
+}

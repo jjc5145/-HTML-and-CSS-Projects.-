@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+	<h1>NBA table</h1>
+	table {
+		border: 1px solid silver;
+	}
+	td:hover {
+		background-color: yellow;
+		color: black;
+	}
+	tr, th {
+		background-color: black;
+		color: cornsilk;
+	}
+	tr, td {
+		backgrund-color: darkgreen;
+		color: white;
+	}
+	<link rel="stylesheet" type="text/css" href="CSS_table.css">
+	<table style="width":100%">
+		<tr>
+			<th>Name</th>
+			<th>Phone Number</th>
+			<th>Email</th>
+		</tr>
+		<tr>
+			<td>Lebron James</td>
+			<td>1234567890</td>
+			<td>latitle@la.com</td>
+		</tr>
+		<tr>
+			<td>Anthony Davis</td>
+			<td>2154321212</td>
+			<td>thebrow@la.com</td>
+		</tr>
+	</table>
+</body>
+</html>
