@@ -2,7 +2,7 @@
     MENU SECTION ANIMATION
 -------------------------------------------------*/
 .menu {
-    color: #f00
+    color: #f00;
     font: bold 12px/18px sans-serif;
     text-align: center;
     display: inline;
@@ -37,13 +37,13 @@
 
 /*------------------------------------------------------------
     GALLERY SECTION ANIMATION
---------------------------------------------------------------
+--------------------------------------------------------------*/
 
 .photo {
     position: relative;
     line-height: 0;
     margin-bottom: 2em;
-    overflow: hidden;
+    overflow: hidden;*/
     border-radius: 8px; 
     padding: 1px;
     border: 1px solid #021a40;
@@ -55,13 +55,13 @@
     text-align: center;
     margin: 15px auto;
     width: 300px;
-    heigh: 169px;
+    height: 169px;
 }
 
 .photo-container img {
-    max-width: 100%
-    width: 300px
-    height: 169px
+    max-width: 100%;
+    width: 300px;
+    height: 169px;
 }
 
 .photo-overlay {
